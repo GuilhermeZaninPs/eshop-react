@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/eshorp-react/static/css/main.a3eee946.css",
-    "main.js": "/eshorp-react/static/js/main.245e3233.js",
-    "static/js/787.9bbd3b2a.chunk.js": "/eshorp-react/static/js/787.9bbd3b2a.chunk.js",
-    "index.html": "/eshorp-react/index.html",
-    "main.a3eee946.css.map": "/eshorp-react/static/css/main.a3eee946.css.map",
-    "main.245e3233.js.map": "/eshorp-react/static/js/main.245e3233.js.map",
-    "787.9bbd3b2a.chunk.js.map": "/eshorp-react/static/js/787.9bbd3b2a.chunk.js.map"
+    "main.css": "/eshop-react/static/css/main.a3eee946.css",
+    "main.js": "/eshop-react/static/js/main.a6dec1ff.js",
+    "static/js/787.9bbd3b2a.chunk.js": "/eshop-react/static/js/787.9bbd3b2a.chunk.js",
+    "index.html": "/eshop-react/index.html",
+    "main.a3eee946.css.map": "/eshop-react/static/css/main.a3eee946.css.map",
+    "main.a6dec1ff.js.map": "/eshop-react/static/js/main.a6dec1ff.js.map",
+    "787.9bbd3b2a.chunk.js.map": "/eshop-react/static/js/787.9bbd3b2a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a3eee946.css",
-    "static/js/main.245e3233.js"
+    "static/js/main.a6dec1ff.js"
   ]
 }
