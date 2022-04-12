@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eshorp-react/static/css/main.a3eee946.css",
+    "main.js": "/eshorp-react/static/js/main.245e3233.js",
+    "static/js/787.9bbd3b2a.chunk.js": "/eshorp-react/static/js/787.9bbd3b2a.chunk.js",
+    "index.html": "/eshorp-react/index.html",
+    "main.a3eee946.css.map": "/eshorp-react/static/css/main.a3eee946.css.map",
+    "main.245e3233.js.map": "/eshorp-react/static/js/main.245e3233.js.map",
+    "787.9bbd3b2a.chunk.js.map": "/eshorp-react/static/js/787.9bbd3b2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3eee946.css",
+    "static/js/main.245e3233.js"
+  ]
+}
